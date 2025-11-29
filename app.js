@@ -1,6 +1,6 @@
 // --- CONFIGURATION ---
 // PASTE YOUR WEB APP URL HERE (The one ending in /exec)
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx.../exec'; 
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyKfW36_JzrrtiUqYu8ZbrwGliw46_Twl37hgZdrRq2DP2542AHSpGpX4b5Ee6humv4/exec'; 
 
 // --- NAVIGATION & UI ---
 
